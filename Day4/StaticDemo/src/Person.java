@@ -15,7 +15,7 @@ public  class Person {
 		if(pname!=null) {
 			return pname.substring(0,3)+cnt;
 		}
-		return "xxx"+cnt;
+		return ""+cnt;
 	}
 	public Person() {
 		//calling parametrized constructor of same class

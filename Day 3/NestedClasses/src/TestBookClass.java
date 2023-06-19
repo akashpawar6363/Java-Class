@@ -1,7 +1,7 @@
 import test.Book;
 import test.Book.Lesson;
 
-import static test.Book.*;
+// import static test.Book.*;
 
 public class TestBookClass {
 	public static void main(String[] args) {

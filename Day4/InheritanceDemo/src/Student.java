@@ -1,4 +1,3 @@
-
 public class Student extends Person {
      private int m1,m2,m3;
      public Student() {

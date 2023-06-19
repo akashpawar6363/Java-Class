@@ -5,30 +5,30 @@ public class MyClass {
 		d=23;
 		
 	}
-	/*public  int add(int a,int b) {
+	public  int add(int a,int b) {
 		System.out.println("in int method");
 		return a+b;
-	}*/
-	/*public int add(Integer a,Integer b) {
+	}
+	public int add(Integer a,Integer b) {
 		System.out.println("in integer method");
 		return a+b;
-	}*/
-	/*public long add(long a,long b) {
+	}
+	public long add(long a,long b) {
 		System.out.println("in long method");
 		return a+b;
-	}*/
-	/*public Object add(Object a,Object b) {
+	}
+	public Object add(Object a,Object b) {
 		System.out.println("in Object method");
 		return new Object();
-	}*/
+	}
 	public Long add(Long a,Long b) {
 		System.out.println("in Long method");
 		return a+b;
 	}
-	/*public int add(int a,int b,int c) {
+	public int add(int a,int b,int c) {
 		System.out.println("in 3 int method");
 		return a+b+c;
-	}*/
+	}
 	//variable number of parameters
 	public int add(int a,int b,int...c) {
 		System.out.println("in varargs  method");
